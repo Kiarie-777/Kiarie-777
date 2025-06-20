@@ -1,4 +1,4 @@
-##👋 Hi, I'm Alex Eddy
+# 👋 Hi, I'm Alex Eddy
 
 I'm a Front-End Developer and UI/UX enthusiast from Kenya, passionate about building clean, responsive, and intuitive user interfaces. With a background in Computer Science and a love for creative problem-solving, I specialize in turning bold ideas into functional digital experiences.
 
@@ -6,9 +6,9 @@ I'm a Front-End Developer and UI/UX enthusiast from Kenya, passionate about buil
 
 ## 👨‍💻 What I Do
 
-- 💻 **Front-End Development**: HTML5, CSS3, JavaScript, Flutter, React
-- 🎨 **UI/UX Design**: Figma, Adobe XD — clean interfaces, smooth user journeys
-- 📱 **Mobile App Development**: Kotlin, Dart, Firebase, Supabase
+- 💻 **Front-End Development**: HTML5, CSS3, JavaScript, Flutter, React  
+- 🎨 **UI/UX Design**: Figma, Adobe XD — clean interfaces, smooth user journeys  
+- 📱 **Mobile App Development**: Kotlin, Dart, Firebase, Supabase  
 - 🔧 **Tech Stack**: REST APIs, Git, MySQL, Python, PHP
 
 ---
@@ -28,11 +28,20 @@ Founded and manage a digital news platform for students at the University of Kab
 
 ## 🛠 Tools & Technologies
 
-- **Languages**: Dart, Kotlin, JavaScript, Python, PHP, SQL  
-- **Frameworks**: Flutter, React  
-- **Databases**: Firebase, Supabase, MySQL  
-- **Design**: Figma, Adobe XD  
-- **Others**: Git, VS Code, Power BI, REST APIs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+</p>
 
 ---
 
@@ -40,7 +49,7 @@ Founded and manage a digital news platform for students at the University of Kab
 
 🎓 BSc. Computer Science — *University of Kabianga*  
 📜 Certified Ethical Hacker (CEH) — *Expected 2025*  
-🌐 Huawei ICT Academy — *Active Student*  
+🌐 Huawei ICT Academy — *Active Student*
 
 ---
 
@@ -56,8 +65,8 @@ Founded and manage a digital news platform for students at the University of Kab
 ## 📫 Get in Touch
 
 - 📧 **Email**: eddiiieh@gmail.com  
-- 🌍 **Location**: Nairobi, Kenya  
-- 🔗 **LinkedIn**: [linkedin.com/in/alexeddy](https://www.linkedin.com/in/eddiiieh/) *(add your link)*
+- 🌍 **Location**: Kiambu, Kenya  
+- 🔗 **LinkedIn**: [linkedin.com/in/alexeddy](#) *(add your link)*
 
 ---
 
