@@ -1,4 +1,4 @@
-#👋 Hi, I'm Alex Eddy
+##👋 Hi, I'm Alex Eddy
 
 I'm a Front-End Developer and UI/UX enthusiast from Kenya, passionate about building clean, responsive, and intuitive user interfaces. With a background in Computer Science and a love for creative problem-solving, I specialize in turning bold ideas into functional digital experiences.
 
