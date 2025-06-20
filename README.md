@@ -24,6 +24,21 @@ A Firebase-Supabase powered app for students to report and recover lost items. F
 ### 📰 The UoK Times – Campus News Blog  
 Founded and manage a digital news platform for students at the University of Kabianga. 50+ articles published, 4,000+ readers reached.
 
+### 🙏 Church Management System *(In Progress)*  
+This project develops a web-based member registration system for a Catholic Church. It features a responsive and interactive frontend form designed for ease of use, coupled with a robust backend for secure data storage and management. The system aims to streamline the process of collecting member details, including personal, sacramental, and associational information.  
+
+Key Features:
+
+Frontend: Responsive design, dynamic header and hamburger menu, image slider, and comprehensive client-side form validation with real-time feedback. It includes dynamic fields for children's names (based on marital status) and a conditionally visible Small Christian Community (SCC) selection.
+Backend (Planned): Will use PHP and MySQL to securely receive, validate, sanitize, and store registration data.
+Technologies: HTML5, CSS3, Vanilla JavaScript (frontend); PHP, MySQL/MongoDB (backend); XAMPP/WAMP/MAMP and phpMyAdmin (development tools).
+
+Setup: Involves cloning the repo, installing a local server like XAMPP, setting up the database in phpMyAdmin, and configuring backend connections.
+
+Usage: Users access the registration.html form, fill details with real-time validation, and submit. Data will be stored in the database.
+
+Future plans include an admin dashboard, authentication, and deployment.
+
 ---
 
 ## 🛠 Tools & Technologies
@@ -65,8 +80,8 @@ Founded and manage a digital news platform for students at the University of Kab
 ## 📫 Get in Touch
 
 - 📧 **Email**: eddiiieh@gmail.com  
-- 🌍 **Location**: Kiambu, Kenya  
-- 🔗 **LinkedIn**: [linkedin.com/in/alexeddy](#) *(add your link)*
+- 🌍 **Location**: Nairobi, Kenya  
+- 🔗 **LinkedIn**: [linkedin.com/in/eddiiieh](www.linkedin.com/in/eddiiieh/)
 
 ---
 
