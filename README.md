@@ -11,23 +11,6 @@ I'm a Front-End Developer and UI/UX enthusiast from Kenya, passionate about buil
 - 📱 **Mobile App Development**: Kotlin, Dart, Firebase, Supabase  
 - 🔧 **Tech Stack**: REST APIs, Git, MySQL, Python, PHP
 
----
-
-## 🚀 Projects I'm Proud Of
-
-### 📦 AgriSphere – E-commerce App for Farmers  
-Built a mobile platform using Kotlin and Firebase to help farmers procure farm inputs efficiently. Integrated Daraja API for M-PESA payments and REST APIs for real-time inventory.
-
-### 🎒 FindIt – Campus Lost & Found App  
-A Firebase-Supabase powered app for students to report and recover lost items. Features include smart notifications, real-time listings, and a clean Flutter-based UI.
-
-### 📰 The UoK Times – Campus News Blog  
-Founded and manage a digital news platform for students at the University of Kabianga. 50+ articles published, 4,000+ readers reached.
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eddiiieh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eddiiieh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eddiiieh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eddiiieh@gmail.com) 
 
